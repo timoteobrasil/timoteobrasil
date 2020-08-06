@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olár! 👋
+
+Vamo ver se eu consigo deixar minhas besteiras em algum lugar além do HD que morreu T.T
 
 <!--
 **timoteobrasil/timoteobrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
